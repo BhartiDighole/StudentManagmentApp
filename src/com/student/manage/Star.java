@@ -93,6 +93,7 @@ public class Star {
 
         while (true) {
             System.out.println("\nPress 1 to Add Student");
+            
             System.out.println("Press 2 to Delete Student");
             System.out.println("Press 3 to Display Students");
             System.out.println("Press 4 to Exit App");
